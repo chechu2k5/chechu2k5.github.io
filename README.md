@@ -1,4 +1,4 @@
-# chechu2k5.github.io
+# chechu2k5
 
 This is just my personal blog I created to keep track of some interesting stuff I do or did.
 
