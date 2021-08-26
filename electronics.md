@@ -9,3 +9,5 @@ Some microcontroller boards I play with
   * [stm32f103c8t6](http://wiki.stm32duino.com/index.php?title=STM32F103_boards) minimum system development board aka "RedPill"/"BluePill"/"BlackPill"
   * [stm8](https://www.cnx-software.com/2015/01/18/one-dollar-development-board/) minimum system development board
   * [pro mini](https://www.arduino.cc/en/Guide/ArduinoProMini) and clones
+
+  * [arduino xiao](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
